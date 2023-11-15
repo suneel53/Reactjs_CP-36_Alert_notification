@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.not-cont {
+  display: flex;
+  margin-bottom: 20px;
+  width: 80%;
+}
